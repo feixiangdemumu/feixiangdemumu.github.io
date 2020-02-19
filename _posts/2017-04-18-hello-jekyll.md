@@ -14,6 +14,4 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 
 ### Video Test
 
-<iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></iframe>
-
 ![blockchain] (https://note.youdao.com/yws/public/resource/557eec22911f17a40e84baf80df225d5/xmlnote/WEBRESOURCEacd45b02baf3415933e851b48cba4f2e/68 "区块链")
