@@ -10,7 +10,7 @@ tags: jekyll
 > Transform your plain text into static websites and blogs.
 
 ### Welcome
-![alt](https://note.youdao.com/yws/public/resource/557eec22911f17a40e84baf80df225d5/xmlnote/WEBRESOURCEacd45b02baf3415933e851b48cba4f2e/68 "fejij")
+
 This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
 
 ### So what is Jekyll, exactly?Permalink
@@ -24,3 +24,6 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 ### Video Test
 
 <iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></iframe>
+
+![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
+u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
