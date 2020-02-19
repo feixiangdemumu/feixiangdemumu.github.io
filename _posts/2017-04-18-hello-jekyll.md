@@ -14,4 +14,4 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 
 ### Video Test
 
-![blockchain] (https://note.youdao.com/yws/public/resource/557eec22911f17a40e84baf80df225d5/xmlnote/WEBRESOURCEacd45b02baf3415933e851b48cba4f2e/68 "区块链")
+![blockchain]  (https://note.youdao.com/yws/public/resource/557eec22911f17a40e84baf80df225d5/xmlnote/WEBRESOURCEacd45b02baf3415933e851b48cba4f2e/68 "区块链")
